@@ -1,15 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00c2ff&height=150&section=header&text=SOFTWARE%20ENGINEER&fontSize=70&animation=fadeIn" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://skillicons.dev/icons?i=react,reactnative,supabase,bootstrap,js,ts,dotnet,py,figma" />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Generative_AI-Robot?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Brain?style=for-the-badge&logo=google-gemini&logoColor=white&color=1a73e8" />
-  <img src="https://img.shields.io/badge/LLM_Ops-Flow?style=for-the-badge&logo=hugginface&logoColor=black&color=ffca28" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Generative_AI-Robot?style=for-the-badge&logo=openai&logoColor=white&color=412991" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-Brain?style=for-the-badge&logo=google-gemini&logoColor=white&color=1a73e8" />
+    <img src="https://img.shields.io/badge/LLM_Ops-Flow?style=for-the-badge&logo=hugginface&logoColor=black&color=ffca28" />
+  </p>
 
   <br/><br/>
   <hr/>
